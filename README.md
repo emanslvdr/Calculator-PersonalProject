@@ -1,1 +1,1 @@
-# calculatorPersonalProject
+# Calculator-PersonalProject
